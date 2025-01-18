@@ -1,4 +1,4 @@
-# Stats 507 Coursework 
+# STATS 507 Coursework 
 
 This repository contains my coursework for the **STATS 507** course at the **University of Michigan!**
 It includes Python implementations of various programming and mathematical concepts covered throughout the course.
